@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi there, I'm Dheeraj 👋
+ Hi there, I'm Dheeraj 👋
 
 💻 **Aspiring Developer | Python Enthusiast**  
 🚀 On a journey to learn programming and build cool projects step-by-step.  
